@@ -1,0 +1,10 @@
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.pdb
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\obj\x86\Debug\YoutubeDownloader.Main.resources
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\obj\x86\Debug\YoutubeDownloader.Properties.Resources.resources
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\obj\x86\Debug\YoutubeDownloader.exe
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\obj\x86\Debug\YoutubeDownloader.pdb
+D:\Development\_SPIKE\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe.config
